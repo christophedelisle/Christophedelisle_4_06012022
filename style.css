@@ -56,6 +56,29 @@ a:hover {
   padding: 20px 50px;
 }
 
+.slogan {
+  font-size: 22px;
+  max-width: 700px;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.citation_1 {
+  font-size: 19px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.citation_2 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+}
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
